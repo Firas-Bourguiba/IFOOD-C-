@@ -14,6 +14,7 @@ namespace FastFoodDemo
     {
         public myprofile()
         {
+            // grab the login From and show it 
             InitializeComponent();
         }
 
@@ -49,6 +50,51 @@ namespace FastFoodDemo
 
         private void button7_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form1 form1 = new Form1();
+            form1.Show();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 Form1 = new Form1();
+            Form1.Show();
+            this.Hide();
 
         }
     }

@@ -1,2 +1,2 @@
-https://sea-of-food-api.herokuapp.com/
+https://sea-of-food-api.herokua/pp.com/
 https://sea-of-food.herokuapp.com/
